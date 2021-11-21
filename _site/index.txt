@@ -88,12 +88,12 @@
 
 			<div class="colorlib-footer">
 				<ul>
-					<li><a href="https://studio.youtube.com/channel/UC6YIWKSsY_J7rMYfAb7_tOw">Youtube <i class="icon-youtube"></i></a></li>
+					<li><a href="https://youtube.com/channel/UC6YIWKSsY_J7rMYfAb7_tOw" target="_blank">Youtube <i class="icon-youtube"></i></a></li>
 					<br>
 					<!-- <li><a href="#"><i class="icon-twitter2"></i></a></li> -->
-					<li><a href="https://github.com/hyesue-lee">Github <i class="icon-github"></i></a></li>
+					<li><a href="https://github.com/hyesue-lee" target="_blank">Github <i class="icon-github"></i></a></li>
 					<br>
-					<li><a href="https://www.instagram.com/hena__moon">Instagram <i class="icon-instagram"></i></a></li>
+					<li><a href="https://www.instagram.com/hena__moon" target="_blank">Instagram <i class="icon-instagram"></i></a></li>
 					
 				</ul>
 			</div>
@@ -399,7 +399,7 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What have I achieved?</span>
-							<h2 class="colorlib-heading">What I Experience</h2>
+							<h2 class="colorlib-heading">What I Experienced</h2>
 						</div>
 					</div>
 					<div class="animate-box" data-animate-effect="fadeInTop">
