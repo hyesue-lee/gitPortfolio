@@ -102,13 +102,13 @@ tech_list: # 형식에 맞추어 항목 추가
   color: color-1
   animation: fadeInLeft
   percent: 80
-  mark: 80
+  mark: 60
   content: JAVA 기초, 객제 지향 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 자바로 공부하였습니다.
 - name: Spring Framwork
   color: color-2
   animation: fadeInRight
   percent: 60
-  mark: 60
+  mark: 20
   content: Spring 웹 프로젝트 경험으로 Spring framework의 전반적인 구조에 대해서 이해하고 있습니다.
 - name: AWS
   color: color-3
@@ -122,14 +122,14 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 30
   mark: 30
   content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
-tech_desc: 이 외 <strong>javascript, vue.js, python, AWS, Linux ,MSA, docker </strong>등 을 계속해서 공부할 계획입니다.<br>(또는 현재 공부중인 언어 나열 )
+tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
 
 # Project
 project_meta: My Work
 project_header: PROJECT
 project_introduce: 
-project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다.    # 더보기 내용
+project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
 project_load_more_url: #
 
 project_my_name: 개인 프로젝트
@@ -142,7 +142,7 @@ project_my: # 형식에 맞추어 항목 추가
   detail_url: #
   readmore_url: #
 
-- background_url: images/gitblog.png
+- background_url: images/bog.png
   animation: fadeInLeft
   name: DEV githib blog
   description: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
@@ -248,9 +248,9 @@ blog_list:
   subtitle: 개발 블로그 운영
   date: 2021.11
   content: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
-  thumbnail_url: images/gitblog.png
+  thumbnail_url: images/blog-1.PNG
   link: https://hyesue-lee.github.io/
-- title: 유튜브 개발채널
+- title: 
   subtitle: 개발 컨텐츠 유튜브 채널 운영 [치얼스헤나]
   date: 2020.11
   content: 유튜브 채널을 운영하며 같은 분야의 다양한 사람들과 소통하고 있습니다. 
@@ -259,7 +259,7 @@ blog_list:
 - title: 티스토리 블로그 
   subtitle: 이전 블로그
   date: 2018.03
-  content: 2018년부터 꾸준히 기록하였던 티스토리 첫 블로그 입니다. 
+  content: 깃블로그 전 꾸준히 기록하였던 티스토리 첫 블로그 입니다. 
   thumbnail_url: images/ti.png
   link: https://cheershennah.tistory.com/
 

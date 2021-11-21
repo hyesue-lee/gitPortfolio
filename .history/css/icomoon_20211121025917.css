@@ -1764,7 +1764,12 @@
 .icon-file-word:before {
   content: "\eb11";
 }
-
+.icon-connection:before {
+  content: "\e91b";
+}
+.icon-book:before {
+  content: "\e91f";
+}
 .icon-file-excel:before {
   content: "\eb12";
 }

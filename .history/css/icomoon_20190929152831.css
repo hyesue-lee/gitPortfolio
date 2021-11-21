@@ -69,9 +69,6 @@
 .icon-home:before {
   content: "\e93e";
 }
-.icon-home2:before {
-  content: "\e93e";
-}
 .icon-arrow-forward:before {
   content: "\e93f";
 }
@@ -1764,7 +1761,6 @@
 .icon-file-word:before {
   content: "\eb11";
 }
-
 .icon-file-excel:before {
   content: "\eb12";
 }

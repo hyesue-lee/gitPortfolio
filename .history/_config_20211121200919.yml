@@ -250,7 +250,7 @@ blog_list:
   content: 깃 블로그를 직접 개발하여 배운 것들을 꾸준히 기록하며 배움을 나눕니다. 
   thumbnail_url: images/gitblog.png
   link: https://hyesue-lee.github.io/
-- title: 유튜브 개발채널
+- title: 
   subtitle: 개발 컨텐츠 유튜브 채널 운영 [치얼스헤나]
   date: 2020.11
   content: 유튜브 채널을 운영하며 같은 분야의 다양한 사람들과 소통하고 있습니다. 
