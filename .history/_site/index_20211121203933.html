@@ -387,11 +387,7 @@
 
 					<div class="row">
 						<div class="col-md-12 animate-box">
-							
-							<p>
-								<!--<a href="#" onclick="return false;" class="btn btn-primary btn-lg btn-load-more"> </a>-->
-								<p>앞으로 더 많은 프로젝트가 추가될 예정입니다.</p>
-							</p>
+							<p><a href="#" onclick="return false;" class="btn btn-primary btn-lg btn-load-more"> 앞으로 더 많은 프로젝트가 추가될 예정입니다.</a></p>
 						</div>
 					</div>
 				</div>
@@ -403,7 +399,7 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">What have I achieved?</span>
-							<h2 class="colorlib-heading">What I Experienced</h2>
+							<h2 class="colorlib-heading">What I Experience</h2>
 						</div>
 					</div>
 					<div class="animate-box" data-animate-effect="fadeInTop">
@@ -656,7 +652,6 @@
 							</div>
 						
 					</div>
-				<!--
 					<div class="row">
 						<div class="col-md-12 animate-box">
 							<p><a href="#" onclick="return false;" class="btn btn-primary btn-lg btn-load-more">더 발전하기 위해 항상 노력합니다</a></p>
@@ -667,13 +662,13 @@
     .embed-container object, 
     .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 </style>
-
+<!--
 <div class="embed-container" >
     <iframe src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen="" onclick="ga('send', 'event', 'post', 'click', 'youtubePlayer');">
     </iframe>
 </div>
+-->
 					</div>
-				-->
 				</div>
 			</section>
 
@@ -788,7 +783,12 @@
 	src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
 
 	<script type="text/javascript">
-
+        // $(function () {
+        //     $('#mail').submit(function (e) {
+        //         e.preventDefault();
+        //         var input = confirm('감사합니다. 곧 회신드리도록 하겠습니:)');
+        //     });
+        // });
         function createData() { 
         var sendData = $('#gform').serialize(); 
         return sendData;
