@@ -48,12 +48,12 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img2.png
   title: JAVA Web <br> Backend Developer
   subtitle: >- 
-    JAVA /<br>
-    Spring Framework <br>
-    JSP / Jquery <br>
-    html / css / js <br>
-    orcle / mysql / mariadb <br>
-    Linux / CentOS <br>
+    JAVA/<br>
+    Spring Framework<br>
+    JSP / Jquery
+    html/css/js<br>
+    orcle/mysql<br>
+    Linux <br>
   position: absolute
   transform: translate (-50%, -50%)
   left: 0px;
@@ -69,14 +69,14 @@ about_header: >-
 #about_introduce: >-
   
 about_content: >-
-  <span style="color:gray">(저의 신입 취준시절 이력서 자기소개 일부입니다. 참고하셔서 본인의 스토리로 어필해 주세요)</span><br><br>
+  <span style="color:gray">(저의 신입 취준시절 이력서 자기소개 일부입니다. 참고하셔서 본인의 스토리로 어필해 주세요)</span><br>
   새로운 것에 도전하고 탐구하는 것을 즐깁니다. <br>
   컴퓨터에 호기심이 많았던 저는 컴퓨터공학과로 진학하여 IT기초 소양을 다졌습니다. 이후 IT기술과 경영의 융합 가치에 관심을 가지고 경영정보시스템(MIS)수업을 들으며 실제 기업경영에서 
   IT기술이 어떤식으로 적용되는지 배웠습니다. 또한 개발동아리 활동을 병행하며 기술력, 그 이상의 잠재력을 가진 개발자가 되고자 부단히 노력해왔습니다.
   첫 직장에서는 개발 기획 업무를 맡아 개발자의 상대 입장이 되어 안목을 넓혔고, 더 큰 세상을 경험하고자 퇴사 후 아일랜드로 떠나 학업과 일을 병행하며 새로운 삶을 살아보기도 했습니다. <br>
   <strong>이처럼 늘 새로운 것에 도전하고 적응해내어 목표를 달성하는 저의 성향은 급변하는 IT환경에 잘 적응하고 도전을 멈추지 않는 개발자로 성장할 수 있는 원천이 될 것입니다. </strong><br>
   이제는 다양한 경험을 토대로 제 분야에서 전문가가 되고자 합니다. 이를 위해 최근 총 6개월간의 NCS JAVA Spring 웹개발 교육과정 동안 성실하게 임하며 Spring framework를 활용한 웹사이트 개발을 완료하고, 목표를 달성하였습니다. 그 결과물을 포트폴리오로 첨부합니다. <br>
-  bla bla ... 
+  <strong>bla bla ... </strong> 
 
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-code
@@ -212,7 +212,7 @@ career_header: Work Career
 career_list:
 - name: 금융IT 프리랜서    
   date: 2021.08~ 현재 
-  content: 여신 재무비율 계산 시스템 개발 <br> 전문거래 EAI 통신 <br>... 
+  content: 여신 재무비율 계산 시스템 개발 <br> 전문거래 EAI 통신 ... 
   color: color-2
   icon: icon-pen2
   animation: fadeInLeft
@@ -225,7 +225,7 @@ career_list:
   animation: fadeInLeft
 - name: 개발 기획
   date: 2015.03~2016.11
-  content: 정부 연구과제 참여 - 발전 설비현장 성능평가 프로그램 분석 및 설계 <br> ...
+  content: 정부 연구과제 참여 - 발전 설비현장 성능평가 프로그램 분석 및 설계 <br>  
   color: color-2
   icon: icon-pen2
   animation: fadeInRight

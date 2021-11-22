@@ -48,12 +48,12 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img2.png
   title: JAVA Web <br> Backend Developer
   subtitle: >- 
-    JAVA /<br>
-    Spring Framework <br>
-    JSP / Jquery <br>
-    html / css / js <br>
-    orcle / mysql / mariadb <br>
-    Linux / CentOS <br>
+    JAVA/<br>
+    Spring Framework<br>
+    JSP / Jquery
+    html/css/js<br>
+    orcle/mysql<br>
+    Linux <br>
   position: absolute
   transform: translate (-50%, -50%)
   left: 0px;

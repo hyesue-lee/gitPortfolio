@@ -48,12 +48,12 @@ slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img2.png
   title: JAVA Web <br> Backend Developer
   subtitle: >- 
-    JAVA /<br>
-    Spring Framework <br>
-    JSP / Jquery <br>
-    html / css / js <br>
-    orcle / mysql / mariadb <br>
-    Linux / CentOS <br>
+    JAVA/<br>
+    Spring Framework<br>
+    JSP / Jquery
+    html/css/js<br>
+    orcle/mysql<br>
+    Linux <br>
   position: absolute
   transform: translate (-50%, -50%)
   left: 0px;
@@ -76,7 +76,7 @@ about_content: >-
   첫 직장에서는 개발 기획 업무를 맡아 개발자의 상대 입장이 되어 안목을 넓혔고, 더 큰 세상을 경험하고자 퇴사 후 아일랜드로 떠나 학업과 일을 병행하며 새로운 삶을 살아보기도 했습니다. <br>
   <strong>이처럼 늘 새로운 것에 도전하고 적응해내어 목표를 달성하는 저의 성향은 급변하는 IT환경에 잘 적응하고 도전을 멈추지 않는 개발자로 성장할 수 있는 원천이 될 것입니다. </strong><br>
   이제는 다양한 경험을 토대로 제 분야에서 전문가가 되고자 합니다. 이를 위해 최근 총 6개월간의 NCS JAVA Spring 웹개발 교육과정 동안 성실하게 임하며 Spring framework를 활용한 웹사이트 개발을 완료하고, 목표를 달성하였습니다. 그 결과물을 포트폴리오로 첨부합니다. <br>
-  bla bla ... 
+  <strong>bla bla ... </strong> 
 
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-code
